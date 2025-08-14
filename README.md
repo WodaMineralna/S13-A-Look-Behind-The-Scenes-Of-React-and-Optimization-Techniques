@@ -5,8 +5,9 @@ Practice code for Section 13 - A Look Behind the Scenes of React & Optimization 
 This project covers
 - Performance tools - React.memo, useMemo, useCallback
 - Avoid unnecessary re-renders
-Project type
-- Based on a guided project
+
+# Project type
+Implemented as part of a guided course project, with additional features and customizations added independently.
 
 ## Tech Stack
 - React
