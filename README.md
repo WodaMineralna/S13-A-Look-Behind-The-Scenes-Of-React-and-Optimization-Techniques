@@ -2,7 +2,7 @@
 
 Practice code for Section 13 - A Look Behind the Scenes of React & Optimization Techniques, part of the course "React - The Complete Guide (incl. Redux)" by Maximilian Schwarzmüller.
 
-This project covers
+This project covers:
 - Performance tools - React.memo, useMemo, useCallback
 - Avoid unnecessary re-renders
 
